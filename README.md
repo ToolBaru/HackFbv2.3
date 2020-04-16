@@ -1,6 +1,7 @@
 # HackFbv2.3
 janganlupaSubscribechanelSaya: HackSael
-Untuk user&pass bisa di lihat di link: https://semawur.com/OpyKYKpg
+#s
+Untuk pengguna & pass dapatr di lihat di tautan: chttps://semawur.com/OpyKYK
 $pkg install update && pkg install upgrade
 $pkg install python2
 $pkg install git
@@ -11,5 +12,5 @@ $git clone https://github.com/ToolBaru/HackFbv2.3
 $cd 'HackFbv2.3'
 $ls
 $python2 dkfb
-Nomer hp saya dan whatsapp :0895701163951
-pakai dengan baik jangan di salah gunakan 
+Nomor telepon saya dan whatsapp: 8817893668
+pakai dengan baik jangan salah gunakan 
